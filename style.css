@@ -1,0 +1,55 @@
+body{
+    background: url(image/body.jpg) fixed center;
+    font-family: 'Balsamiq Sans', cursive;
+}
+  .container1{
+    display: flex;
+  }
+  
+  .formulaire{
+    display: flex;
+    flex-direction: column;
+  }
+  input {
+    width: 13em;
+    height: 27px;
+    margin: auto;
+    margin-top: 13px;
+    border: none;
+    border-radius: 2px
+  }
+  .placeholder{
+    opacity: 5px 5px 3px;
+  }
+  .btn1{
+    width: 13em;
+    margin: auto;
+    margin-top: 13px;
+    border: none;
+    background-color: rgb(64, 94, 228);
+    border-radius: 2px;
+  }
+.navbar{
+    background-color: rgba(0,0,0,.5);
+    border-bottom: 4px solid rgb(57, 170, 57);
+}
+  .section1{
+    width: 100%; 
+    background-color: rgba(0,0,0,.5);
+    background-color: rgba(0,0,0,0,.7);
+  }
+
+  .voirplus{
+    color: dimgrey;
+    border: 2px solid dimgrey;
+    border-radius: 5px 5px ;
+  }
+  .voirplus2{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(206, 199, 199);
+    border-radius: 5px 5px ;
+  }
+
+
+
+
